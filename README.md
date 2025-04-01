@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @kiana-217
-- 👀 I’m interested in programmin
-- 🌱 I’m currently learning javascript
 - 📫 How to reach me? my gmail is kiana.abln222@gmail.com
 
 <!---
